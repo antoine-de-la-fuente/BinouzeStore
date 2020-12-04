@@ -101,6 +101,7 @@ float:right;
 	src: url('MotionPicture_PersonalUseOnly.ttf');
 }
 .down{
+	border-radius:20px 20px 20px 20px;
 	margin-top: 90px;
 	margin-right: 8%;
 	margin-left: 8%;
@@ -120,6 +121,7 @@ float:right;
  	color:#704214;
 }
 footer{
+border-radius:20px 20px 20px 20px;
 
 background:#964b00;
 background-blend-mode: lighten;
